@@ -11,7 +11,7 @@ Inspired by the Rapid Software Testing mindset — part journal, part workshop.
 
 This repo contains:
 
-- 📄 **LinkedIn Article Series**: Exploratory journey through the Spotify API (see `articles/`)
+- 📄 **Article Series**: Exploratory journey through the Spotify API (see `articles/`)
 - 🧪 **Postman Collections**: Reusable, versioned test cases for Spotify endpoints
 - ⚙️ **Environment Files**: Postman environments with scoped variables
 - 🤖 **Automation (ToDo)**: Plan for CI runs via GitHub Actions
@@ -37,8 +37,8 @@ This repo contains:
 
 ## 📚 Article Series
 
-- **Part 0 – Setup & Authorization Flow** → [Read here](./articles/spotify-0-setup.md)
-- **Part 1 – Exploratory API Testing** → [Read here](./articles/spotify-1-exploration.md)
+- **Part 0 – Setup & Authorization Flow** → _Coming soon..._
+- **Part 1 – Exploratory API Testing** → _Coming soon..._
 - **Part 2 – Automating Collection** → _Coming soon..._
 - **Part 3 – GitHub Actions Integration** → _Coming soon..._
 
@@ -65,7 +65,7 @@ This repo contains:
 
 ## 💡 About the Author
 
-Hi, I’m [Nat](https://www.linkedin.com/in/...) — a QA engineer with 10+ years in software testing.  
+Hi, I’m [Nat](https://www.linkedin.com/in/natashatereshchenko/) — a QA engineer with 10+ years in software testing.  
 This repo is part of my open testing journal and career portfolio. Feel free to connect, reuse or fork!
 
 ---
