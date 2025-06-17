@@ -3,7 +3,7 @@
 A hands-on, exploratory + automated API testing project using [Spotify’s Web API](https://developer.spotify.com/documentation/web-api).  
 Inspired by the Rapid Software Testing mindset — part journal, part workshop.
 
-> 👩‍💻 Created by a QA engineer, for QA engineers. This is not just another tutorial — it's a field report.
+👩‍💻 Created by a QA engineer, for QA engineers. This is not just another tutorial, it's a field report.
 
 ---
 
